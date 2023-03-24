@@ -1,0 +1,22 @@
+{
+  "name": "cuddly-disco-public",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikrambajaj1/cuddly-disco-public.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikrambajaj1/cuddly-disco-public/issues"
+  },
+  "homepage": "https://github.com/vikrambajaj1/cuddly-disco-public#readme",
+  "dependencies": {
+    "react-static": "^7.6.2"
+  }
+}
