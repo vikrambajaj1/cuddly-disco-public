@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vikrambajaj1/cuddly-disco-public#readme",
   "dependencies": {
+    "next": "^13.2.4",
     "react-static": "^7.6.2"
   }
 }
